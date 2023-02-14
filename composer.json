@@ -3,7 +3,7 @@
   "description": "The Unofficial Telegram Bot API PHP SDK",
   "keywords": ["telegram", "telegram bot", "telegram bot api", "telegram sdk", "telegram php", "laravel telegram", "laravel"],
   "type": "library",
-  "homepage": "https://github.com/oracleh2/telegram-bot-sdk",
+  "homepage": "https://github.com/oracleh2/telegram-bot-sdk-develop",
   "license": "BSD-3-Clause",
   "authors": [
     {
